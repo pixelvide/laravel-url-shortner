@@ -17,7 +17,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "^5.0",
         "aws/aws-sdk-php": "^3.184",
         "ext-json": "*"
     },
@@ -30,8 +29,5 @@
         "psr-4": {
             "Pixelvide\\UrlShortener\\Test\\": "tests/"
         }
-    },
-    "require-dev": {
-        "orchestra/testbench": "^5"
     }
 }
