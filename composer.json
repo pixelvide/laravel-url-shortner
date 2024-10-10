@@ -1,7 +1,7 @@
 {
     "name": "pixelvide/laravel-url-shortener",
     "description": "Pixelvide URL Shortener",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "type": "package",
     "license": "GPL-3.0-or-later",
     "authors": [
@@ -17,7 +17,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "^6.0|^7.0",
+        "laravel/framework": "^6.0|^7.0|^8.0",
         "aws/aws-sdk-php": "^3.184",
         "ext-json": "*"
     },
